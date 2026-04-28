@@ -1,3 +1,5 @@
+//Diego Ferreira Duarte
+// RA: 1261933438
 import java.util.Scanner;
 
 public class App {
